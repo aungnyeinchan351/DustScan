@@ -8,7 +8,7 @@ You can scan using sever IP or host name.
 ```
 pkg install git
 pkg install python
-git clone 
+git clone https://github.com/aungnyeinchan351/DustScan.git
 pip3 install pyfiglet
 cd Dustscan
 python3 dustscan.py
@@ -20,7 +20,7 @@ sudo apt install python
 sudo apt install git
 sudo apt install python3 -pip
 sudo pip3 install pyfiglet
-git clone 
+git clone https://github.com/aungnyeinchan351/DustScan.git
 cd DustScan
 python3 dustscan.py
 ```
@@ -52,3 +52,5 @@ Port 631 is open.
 Port 33144 is open.
 Port 50740 is open.
 ```
+Follow me on [GitHub](https://GitHub.com/aungnyeinchan351)
+Follow me on [Facebook](https://facebook.com/zinyaw3063)
